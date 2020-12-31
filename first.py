@@ -1,2 +1,3 @@
-for i in range(1, 200):
-     print("first project"*i)
+for i in range(1, 20000):
+     print("😓"*i)
+     Print("I left the group")
