@@ -31,7 +31,7 @@ for na in name:
     elif (na =="M"):
        print("13")
     elif (na =="N"):
-       print("                          💙  💙\n                        💙 💙 💙\n                       💙  💙 💙\n 💙   💙 💙\n                     💙    💙💙\n\n\n")
+       print("                          💙  💙\n                        💙 💙 💙\n                       💙  💙 💙\n                      💙   💙 💙\n                     💙    💙💙\n\n\n")
     elif (na =="O"):
        print("15")
     elif (na =="P"):
@@ -39,7 +39,7 @@ for na in name:
     elif (na =="Q"):
        print("17")
     elif (na =="R"):
-       print("                     🤎🤎🤎🤎\n                     🤎    🤎 \n                     🤎   🤎  \n                     🤎🤎🤎\n                     🤎  🤎\n                     🤎   🤎\n                     🤎    🤎\n\n\n")
+       print("                     😏😏😏😏\n                     😏    😏 \n                     😏   😏  \n                     😏😏😏\n                     😏  😏\n                     😏   😏\n                     😏    😏\n\n\n")
     elif (na =="S"):
        print("19")
     elif (na =="T"):
@@ -53,7 +53,7 @@ for na in name:
     elif (na =="X"):
        print("24")
     elif (na =="Y"):
-       print("                     🤍  🤍\n                      🤍‎‎‎‎‎ 🤍\n                       🤍🤍\n                         🤍\n                         🤍\n\n\n")
+       print("                     😏  😏\n                      😏 😏\n                       😏😏\n                         😏\n                         😏\n\n\n")
     elif (na =="Z"):
        print("26")
     elif (na ==" "):
@@ -61,4 +61,4 @@ for na in name:
 # @skylord
 print("_happy_new_year___greeting_from_SKYLORD___")
 print("_______________________________________")
-print("love you guys!!!!!!!!")
+print("any termux user should comment for the command to run in termux")
