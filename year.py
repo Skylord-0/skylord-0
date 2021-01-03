@@ -1,6 +1,6 @@
 # @skylord, if you like you can hit the upvote
         
-name = input("wishings you HAPPY NEW YEAR: \n\n\n")
+name = input("TYPE happy new year: \n\n\n")
 
 for na in name:
     na = na.upper()
